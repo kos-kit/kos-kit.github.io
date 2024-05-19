@@ -10,7 +10,7 @@ The tutorial will guide you in deploying the KOS Kit Explorer as a statically-ge
 
 #### Copy the template GitHub repository
 
-Follow [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) on creating a GitHub repository from a template, using [this template repository](https://github.com/kos-kit/unesco-thesaurus-explorer).
+Follow [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) on creating a GitHub repository from a template, using [this template repository](https://github.com/kos-kit/hasset-explorer).
 
 #### Configure GitHub Pages
 
