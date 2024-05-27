@@ -1,10 +1,12 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Tutorial: deploy the KOS Kit Explorer with GitHub Actions
+# Tutorial: deploy the KOS Kit Explorer as a statically-generated GitHub Pages site
 
-The tutorial will guide you in deploying the KOS Kit Explorer as a statically-generated using GitHub Actions.
+This tutorial will guide you in deploying the KOS Kit Explorer as a statically-generated site using GitHub Actions and GitHub Pages.
+
+You should only use static site generation for relatively small datasets (thousands of concepts).
 
 ### Create and configure a GitHub repository
 
