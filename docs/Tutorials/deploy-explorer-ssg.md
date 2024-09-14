@@ -18,7 +18,7 @@ Follow [these instructions](https://docs.github.com/en/repositories/creating-and
 
 Follow [these instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow) on publishing GitHub Pages with a custom GitHub Actions workflow.
 
-### Replace `data.rdf` in your repository with your SKOS taxonomy
+### Replace `data.nt` in your repository with your SKOS taxonomy
 
 Your taxonomy can serialized be in any RDF format supported by [N3.js](https://github.com/rdfjs/N3.js):
 
@@ -27,8 +27,6 @@ Your taxonomy can serialized be in any RDF format supported by [N3.js](https://g
 - [Notation3 (N3)](https://www.w3.org/TeamSubmission/n3/)
 - [Turtle](https://www.w3.org/TR/turtle/)
 - [TriG](https://www.w3.org/TR/trig/)
-
-The code ignores the file extension and senses the format from the content.
 
 ### Generate the site
 
